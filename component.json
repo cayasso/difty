@@ -1,0 +1,19 @@
+{
+  "name": "difty",
+  "description": "Compare objets or arrays and get diffs",
+  "version": "0.1.0",
+  "author": "Jonathan Brumley <cayasso@gmail.com>",
+  "keywords": [
+    "difference",
+    "compare",
+    "diff",
+    "changes",
+    "merge",
+    "extend",
+    "json",
+    "array",
+    "data"
+  ],
+  "license": "MIT",
+  "main": "index.js"
+}
